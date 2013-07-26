@@ -1,0 +1,9 @@
+/*Class selectors
+You've also learned how to use class selectors to modify different elements 
+(that is, you can give the same styling to an h3 header, a paragraph, a l
+ink, and a table)*/
+
+.fancy{
+    font-family: cursive;
+    color: violet;
+}
