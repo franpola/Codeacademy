@@ -1,0 +1,4 @@
+//This applies to all paragraphs inside the list
+div ul li{
+    font-size: 30px;
+}
